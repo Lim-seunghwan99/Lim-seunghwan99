@@ -1,5 +1,8 @@
 ![나의사진]()
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99
+)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709@naver.com)](https://solved.ac/hwan9709@naver.com/)
 # 안녕하세요 초보 개발자 임승환입니다.
 현제 싸피 10기 파이썬 과정을 이수하고 있습니다
 # 학업
