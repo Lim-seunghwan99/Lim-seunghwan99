@@ -3,8 +3,6 @@
 ### Hi there 👋 
 </br>
 <p>안녕하세요! 학습에 적극적인 개발자 임승환입니다!</p>
-<p></p>https://portfolio-rho-six-29.vercel.app/</p>
-
 </br>
 
 <b>✨ Tech Stack</b>
