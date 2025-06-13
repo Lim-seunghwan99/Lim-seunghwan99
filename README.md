@@ -64,6 +64,7 @@ AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709)](https://solved.ac/hwan9709@naver.com/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 - 🌱 SSAFY(삼성 청년 SW 아카데미, Python) 10기 수료! (1학기 성적 우수상) *1학기 성적 우수상*  
