@@ -10,7 +10,7 @@ AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험
 ---
 
 ### 🛠 Tech Stack
-</br> </br>
+<br> </br>
 <div align=center> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -59,22 +59,17 @@ AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험
 <img src="https://img.shields.io/badge/Spark-FEAA2D?style=flat&logo=apachespark&logoColor=black"/>
 <br/>
   
----
+</div>
+<br></br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709)](https://solved.ac/hwan9709@naver.com/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 활동 및 수상
 
 - 🌱 **SSAFY(삼성 청년 SW 아카데미) 10기 수료** – Python 트랙, *1학기 성적 우수상*  
 - 💼 **글루코메트릭스** (2024.09 ~ 2024.12) – 웹 개발 및 테스트 자동화 담당  
 - 🧠 **메타버스 아카데미 AI 과정 수강 중** (2025.03 ~ ) – AI 프로젝트 및 AR/VR 연계 서비스 개발  
-
----
-<br></br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709)](https://solved.ac/hwan9709@naver.com/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 
 
 
