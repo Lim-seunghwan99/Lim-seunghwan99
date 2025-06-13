@@ -2,9 +2,13 @@
 
 ## 👋 Hi there! I'm Seunghwan Lim (임승환)
 
-<p>안녕하세요, 저는 임승환입니다."풀스택 개발자로서 Python, Java, JavaScript를 모두 다룰 수 있으며, 특히 Python과 데이터 분야에 강점을 가지고 있습니다.</p>
+<p>안녕하세요, 저는 임승환입니다."풀스택 개발자로서 Python, Java, JavaScript를 모두 다룰 수 있으며</p>
+<p>특히 Python과 데이터 분야에 강점을 가지고 있습니다.</p>
 <sub>
-AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험이 있으며, 백준 골드1 단계 314문제(주로 Python), SWEA 259문제(Python), 프로그래머스 344문제(Java)를 풀며 프로그래밍 언어를 학습했습니다.
+AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험이 있으며, 
+</sub>
+<sub>
+백준 골드1 단계 314문제(주로 Python), SWEA 259문제(Python), 프로그래머스 344문제(Java)를 풀며 프로그래밍 언어를 학습했습니다.
 </sub>
 
 <br> </br>
