@@ -7,7 +7,7 @@
 AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험이 있으며, 백준 골드1 단계 314문제(주로 Python), SWEA 259문제(Python), 프로그래머스 344문제(Java)를 풀며 프로그래밍 언어를 학습했습니다.
 </sub>
 
----
+<br> </br>
 
 ### 🛠 Tech Stack
 <br> </br>
@@ -62,7 +62,7 @@ AI에 관심이 있어 LangChain 기반의 AI 에이전트 및 RAG 구축 경험
 </div>
 <br></br>
 
----
+<br> </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan9709)](https://solved.ac/hwan9709@naver.com/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-seunghwan99)](https://github.com/anuraghazra/github-readme-stats)
