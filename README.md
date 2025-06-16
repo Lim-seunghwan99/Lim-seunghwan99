@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 꾸준히 하자
+## Hello, this is Seunghwan Lim's GitHub.
 
 <p>안녕하세요, 저는 임승환입니다.</p>
 <p>"풀스택 개발자로서 Python, Java, JavaScript를 모두 다룰 수 있으며</p>
