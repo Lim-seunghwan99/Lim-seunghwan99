@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there! I'm Seunghwan Lim (임승환)
+## 👋 꾸준히 하자
 
 <p>안녕하세요, 저는 임승환입니다.</p>
 <p>"풀스택 개발자로서 Python, Java, JavaScript를 모두 다룰 수 있으며</p>
